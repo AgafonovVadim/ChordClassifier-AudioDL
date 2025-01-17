@@ -38,7 +38,7 @@ ChordClassifier-AudioML/
 ├── data/                     # Dataset directory
 ├── logs/                     # TensorBoard logs
 ├── models/                   # Saved models
-├── visualizations            # Model data visualizations
+├── visualizations/           # Model data visualizations
 └── README.md                 # Project documentation
 ```
 
