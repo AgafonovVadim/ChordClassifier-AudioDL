@@ -29,6 +29,7 @@ This project uses a dataset of musical chords, which can be downloaded from Kagg
 2. Place the dataset in the `data/` directory.
 3. Update the file paths in the preprocessing scripts as needed.
 
+Or just use jupyter file - everything is already ready inside!
 ## Usage
 
 ## Directory Structure
